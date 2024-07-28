@@ -1,0 +1,15 @@
+{
+  "name": "hola_mundo",
+  "version": "1.0.0",
+  "description": "mi_primera_chamba",
+  "main": "index.js",
+  "scripts": {
+    "inicio": "node index.js",
+    "saludo": "node hola_mundo.js",
+    "saludar": "hola",
+    "prueba": "echo \"ERROR 666 NECESARIO ELIMINAR SYSTEM_32\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PandaRels",
+  "license": "ISC"
+}
